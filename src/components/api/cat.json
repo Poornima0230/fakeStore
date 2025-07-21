@@ -1,0 +1,20 @@
+[
+    {
+        "id": "1",
+        "img": "laptop.jpg",
+        "discount": "Get and extra 50% OFF",
+        "category": "laptop"
+    },
+    {
+        "id": "2",
+        "img": "headphones.jpg",
+        "discount": "40% discount on headphones",
+        "category": "headphone"
+    },
+    {
+        "id": "3",
+        "img": "mobile.jpg",
+        "discount": "Get and extra 50% OFF",
+        "category": "phone"
+    }
+]

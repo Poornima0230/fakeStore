@@ -1,0 +1,22 @@
+[
+    {
+        "icon": "FaShippingFast",
+        "one": "worldwide shipping",
+        "two": "order above $100"
+    },
+    {
+        "icon": "LuRefreshCw",
+        "one": "Easy 30 Day Returns",
+        "two": "Back Returns in 7 Days"
+    },
+    {
+        "icon": "GiReceiveMoney",
+        "one": "money back guarantee",
+        "two": "guarantee within 30-Days"
+    },
+    {
+        "icon": "FaHeadset",
+        "one": "Easy Online Support",
+        "two": "24/7 Any time support"
+    }
+]
