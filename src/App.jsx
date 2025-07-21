@@ -1,4 +1,4 @@
-import { createHashRouter, RouterProvider } from "react-router-dom";
+import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import { useEffect } from "react";
 import AOS from "aos";
 import "aos/dist/aos.css";
@@ -21,7 +21,7 @@ const App = () => {
       duration: 1500,
     });
   }, []);
-  const router = createHashRouter(
+  const router = createBrowserRouter(
     [
       {
         path: "/",
@@ -29,7 +29,7 @@ const App = () => {
         errorElement: <ErrorPage />,
         children: [
           {
-            path: "/fakeStore",
+            path: "",
             element: <Home />,
           },
           {
